@@ -1,0 +1,7 @@
+.weight-row{
+    display: flex;
+    align-items: center;
+    .prefix{
+        min-width: 90px;
+    }
+}
