@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     .prefix{
-        min-width: 90px;
+        min-width: 110px;
+        text-align: center;
     }
 }
